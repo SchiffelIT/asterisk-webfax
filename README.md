@@ -34,4 +34,8 @@ asterisk -rx "dialplan reload"
 chown -R asterisk:asterisk /var/www/html/webfax/
 ```
 
+6. install ghostscript
 
+```
+apt install ghostscript
+```
